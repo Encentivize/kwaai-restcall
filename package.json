@@ -1,0 +1,24 @@
+{
+  "name": "kwaai-restcall",
+  "version": "0.0.1",
+  "description": "Helpers to call restful apis",
+  "main": "./index.js",
+  "author": {
+    "name": "Martin Naude",
+    "email": "martin@entelect.co.za"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/martinza78/kwaai-restcall"
+  },
+  "dependencies": {
+		"node-rest-client":"~1.0.0"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/martinza78/kwaai-restcall",
+  "_id": "kwaai-restcall@0.0.1",
+  "_from": "kwaai-restcall@"
+}
