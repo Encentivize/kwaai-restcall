@@ -13,4 +13,3 @@ kwaaiRest.callRestService({
     console.log(res);
 })
 
-

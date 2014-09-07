@@ -1,6 +1,6 @@
 {
   "name": "kwaai-restcall",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Helpers to call restful apis",
   "main": "./index.js",
   "author": {
@@ -12,13 +12,14 @@
     "url": "git://github.com/martinza78/kwaai-restcall"
   },
   "dependencies": {
-		"node-rest-client":"~1.0.0"
+		"node-rest-client":"~1.0.0",
+      "deepcopy":"0.3.3"
   },
   "engines": {
     "node": ">= 0.10.0"
   },
   "license": "MIT",
   "homepage": "https://github.com/martinza78/kwaai-restcall",
-  "_id": "kwaai-restcall@0.0.4",
+  "_id": "kwaai-restcall@0.0.5",
   "_from": "kwaai-restcall@"
 }
