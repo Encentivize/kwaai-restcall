@@ -7,7 +7,8 @@ var kwaaiRest=require('./lib/restcall.js')({
 kwaaiRest.callRestService({
     url:"/weather?q={weatherQuery}",
     weatherQuery:"London,uk",
-    verb:"get"
+    verb:"get",
+    headers:{"ttl":30}
 },function(err,res){
     console.log(res);
 })

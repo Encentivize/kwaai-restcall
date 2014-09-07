@@ -1,6 +1,6 @@
 {
   "name": "kwaai-restcall",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helpers to call restful apis",
   "main": "./index.js",
   "author": {
@@ -19,6 +19,6 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/martinza78/kwaai-restcall",
-  "_id": "kwaai-restcall@0.0.1",
+  "_id": "kwaai-restcall@0.0.2",
   "_from": "kwaai-restcall@"
 }
