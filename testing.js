@@ -5,6 +5,7 @@ var kwaaiRest=require('./lib/restcall.js')({
 });
 
 kwaaiRest.callRestService({
+    baseUrl:"http://api.openweathermap.org/data/2.5",
     url:"/weather?q={weatherQuery}",
     weatherQuery:"London,uk",
     verb:"get",
