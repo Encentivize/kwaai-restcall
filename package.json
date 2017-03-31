@@ -12,8 +12,8 @@
     "url": "git://github.com/martinza78/kwaai-restcall"
   },
   "dependencies": {
-    "request":"2.45.0",
-    "deepcopy":"0.3.3"
+    "deepcopy": "0.6.3",
+    "request": "2.45.0"
   },
   "engines": {
     "node": ">= 0.10.0"
